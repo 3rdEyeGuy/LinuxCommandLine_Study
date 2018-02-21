@@ -1,0 +1,10 @@
+-rwxr-xr-x 1 root root    15396752 Apr 29 03:39 snap
+-rwxr-xr-x 1 root root    11848848 Apr 29 03:39 snapctl
+-rwxr-xr-x 1 root root     6546408 Jun 23  2016 gdb
+-rwxr-xr-x 1 root root     4460336 Nov 17  2016 python3.5m
+-rwxr-xr-x 1 root root     4460336 Nov 17  2016 python3.5
+-rwxr-xr-x 1 root root     4291448 Feb 16  2016 shotwell
+-rwxr-xr-x 1 root root     3546104 Nov 19  2016 python2.7
+-rwxr-xr-x 1 root root     2912776 Aug  7  2016 x86_64-linux-gnu-ld.gold
+-rwxr-xr-x 1 root root     2720480 Aug  7  2016 x86_64-linux-gnu-dwp
+-rwxr-xr-x 1 root root     2437320 Nov 24 14:56 vim.basic

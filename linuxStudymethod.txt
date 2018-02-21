@@ -1,0 +1,2 @@
+So, I am wanting to figure out the best way to read the linux book. Things to really consider are: I need to respect the deadlines for the project, I need prepare myself with as much valuable programming skills as possible by June 9th. To really prepare myself it may be best to read through each part (I, II, III and VI) and review after each part, as each part consists of its own  category of learning.
+So, I've decided to keep things fresh in my mind that breaking up each section into halves would be best. So, reviewing everytime I reach half of a section.

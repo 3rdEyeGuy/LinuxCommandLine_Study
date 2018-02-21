@@ -1,0 +1,20 @@
+lrwxrwxrwx 1 root root       6 May 11 00:50 mzip -> mtools
+-rwxr-xr-x 1 root root     11K Feb  7  2016 prezip-bin
+-rwxr-xr-x 1 root root    159K Nov 20  2015 unzip
+-rwxr-xr-x 1 root root    159K Nov 20  2015 zipinfo
+-rwxr-xr-x 1 root root   15K May 20  2015 bzip2recover
+-rwxr-xr-x 1 root root    189K Aug 17  2015 zip
+-rwxr-xr-x 1 root root     23K Nov 20  2015 funzip
+-rwxr-xr-x 1 root root  2.3K Oct 27  2014 gunzip
+-rwxr-xr-x 1 root root    2.9K Nov 20  2015 zipgrep
+-rwxr-xr-x 1 root root   31K May 20  2015 bunzip2
+-rwxr-xr-x 1 root root   31K May 20  2015 bzip2
+-rwxr-xr-x 1 root root    3.3K Aug 18  2016 gpg-zip
+-rwxr-xr-x 1 root root     48K Mar 13  2016 zipdetails
+-rwxr-xr-x 1 root root    5.6K Feb  7  2016 preunzip
+-rwxr-xr-x 1 root root    5.6K Feb  7  2016 prezip
+-rwxr-xr-x 1 root root     75K Nov 20  2015 unzipsfx
+-rwxr-xr-x 1 root root     80K Aug 17  2015 zipnote
+-rwxr-xr-x 1 root root     80K Aug 17  2015 zipsplit
+-rwxr-xr-x 1 root root     85K Aug 17  2015 zipcloak
+-rwxr-xr-x 1 root root   96K Oct 27  2014 gzip

@@ -1,0 +1,265 @@
+cd
+examples.desktop
+foo1.txt
+foo.txt
+localHostdir.txt
+ls-output.txt
+typescript
+vimrc.bak
+
+Desktop:
+
+Documents:
+May14PlazaSesh
+
+Downloads:
+
+Music:
+
+Pictures:
+
+playground:
+3000-01
+3000-02
+3000-03
+3000-04
+3000-05
+3000-06
+3000-07
+3000-08
+3000-09
+3000-10
+3000-11
+3000-12
+3001-01
+3001-02
+3001-03
+3001-04
+3001-05
+3001-06
+3001-07
+3001-08
+3001-09
+3001-10
+3001-11
+3001-12
+3002-01
+3002-02
+3002-03
+3002-04
+3002-05
+3002-06
+3002-07
+3002-08
+3002-09
+3002-10
+3002-11
+3002-12
+3004-01
+3004-02
+3004-03
+3004-04
+3004-05
+3004-06
+3004-07
+3004-08
+3004-09
+3004-10
+3004-11
+3004-12
+3005-01
+3005-02
+3005-03
+3005-04
+3005-05
+3005-06
+3005-07
+3005-08
+3005-09
+3005-10
+3005-11
+3005-12
+year_3003
+year_3003.txt
+
+Public:
+
+Templates:
+
+textFiles:
+haha.txt
+hardyhar.txt
+Hello.txt
+I_Heart_Cyndi.txt
+linuxStudymethod.txt
+ls-error.txt
+ls-output.txt
+ls-outputv1.txt
+ls-outputv2.txt
+ls-outputv3.txt
+ls.txt
+newumask.txt
+scriptHist.txt
+two_words.txt
+umask.txt
+umaskv2.txt
+usr_bin.txt
+
+Videos:
+
+vim:
+appveyor.yml
+configure
+CONTRIBUTING.md
+farsi
+Filelist
+Makefile
+nsis
+pixmaps
+READMEdir
+README.md
+README.txt
+runtime
+src
+tools
+uninstal.txt
+vimtutor.bat
+vimtutor.com
+-rw-rw-r--  1 thirdeyeguy thirdeyeguy    0 May 16 19:41 cd
+-rw-r--r--  1 thirdeyeguy thirdeyeguy 8.8K May 11 00:54 examples.desktop
+-rw-rw-r--  1 thirdeyeguy thirdeyeguy 106K May 20 00:42 foo1.txt
+-rw-rw-r--  1 thirdeyeguy thirdeyeguy   63 May 20 00:36 foo.txt
+-rw-rw-r--  1 thirdeyeguy thirdeyeguy 1.1K May 20 18:59 localHostdir.txt
+-rw-rw-r--  1 thirdeyeguy thirdeyeguy 106K May 20 00:35 ls-output.txt
+-rw-rw-r--  1 thirdeyeguy thirdeyeguy  12K May 19 17:00 typescript
+-rw-rw-r--  1 thirdeyeguy thirdeyeguy  700 May 19 23:24 vimrc.bak
+
+Desktop:
+total 0
+
+Documents:
+total 4.0K
+drwxrwxr-x 5 thirdeyeguy thirdeyeguy 4.0K May 14 20:49 May14PlazaSesh
+
+Downloads:
+total 0
+
+Music:
+total 0
+
+Pictures:
+total 0
+
+playground:
+total 244K
+drwxrwxr-x  2 thirdeyeguy thirdeyeguy 4.0K May 16 17:54 3000-01
+drwxrwxr-x  2 thirdeyeguy thirdeyeguy 4.0K May 16 17:54 3000-02
+drwxrwxr-x  2 thirdeyeguy thirdeyeguy 4.0K May 16 17:54 3000-03
+drwxrwxr-x  2 thirdeyeguy thirdeyeguy 4.0K May 16 17:54 3000-04
+drwxrwxr-x  2 thirdeyeguy thirdeyeguy 4.0K May 16 17:54 3000-05
+drwxrwxr-x  2 thirdeyeguy thirdeyeguy 4.0K May 16 17:54 3000-06
+drwxrwxr-x  2 thirdeyeguy thirdeyeguy 4.0K May 16 17:54 3000-07
+drwxrwxr-x  2 thirdeyeguy thirdeyeguy 4.0K May 16 17:54 3000-08
+drwxrwxr-x  2 thirdeyeguy thirdeyeguy 4.0K May 16 17:54 3000-09
+drwxrwxr-x  2 thirdeyeguy thirdeyeguy 4.0K May 16 17:54 3000-10
+drwxrwxr-x  2 thirdeyeguy thirdeyeguy 4.0K May 16 17:54 3000-11
+drwxrwxr-x  2 thirdeyeguy thirdeyeguy 4.0K May 16 17:54 3000-12
+drwxrwxr-x  2 thirdeyeguy thirdeyeguy 4.0K May 16 17:54 3001-01
+drwxrwxr-x  2 thirdeyeguy thirdeyeguy 4.0K May 16 17:54 3001-02
+drwxrwxr-x  2 thirdeyeguy thirdeyeguy 4.0K May 16 17:54 3001-03
+drwxrwxr-x  2 thirdeyeguy thirdeyeguy 4.0K May 16 17:54 3001-04
+drwxrwxr-x  2 thirdeyeguy thirdeyeguy 4.0K May 16 17:54 3001-05
+drwxrwxr-x  2 thirdeyeguy thirdeyeguy 4.0K May 16 17:54 3001-06
+drwxrwxr-x  2 thirdeyeguy thirdeyeguy 4.0K May 16 17:54 3001-07
+drwxrwxr-x  2 thirdeyeguy thirdeyeguy 4.0K May 16 17:54 3001-08
+drwxrwxr-x  2 thirdeyeguy thirdeyeguy 4.0K May 16 17:54 3001-09
+drwxrwxr-x  2 thirdeyeguy thirdeyeguy 4.0K May 16 17:54 3001-10
+drwxrwxr-x  2 thirdeyeguy thirdeyeguy 4.0K May 16 17:54 3001-11
+drwxrwxr-x  2 thirdeyeguy thirdeyeguy 4.0K May 16 17:54 3001-12
+drwxrwxr-x  2 thirdeyeguy thirdeyeguy 4.0K May 16 17:54 3002-01
+drwxrwxr-x  2 thirdeyeguy thirdeyeguy 4.0K May 16 17:54 3002-02
+drwxrwxr-x  2 thirdeyeguy thirdeyeguy 4.0K May 16 17:54 3002-03
+drwxrwxr-x  2 thirdeyeguy thirdeyeguy 4.0K May 16 17:54 3002-04
+drwxrwxr-x  2 thirdeyeguy thirdeyeguy 4.0K May 16 17:54 3002-05
+drwxrwxr-x  2 thirdeyeguy thirdeyeguy 4.0K May 16 17:54 3002-06
+drwxrwxr-x  2 thirdeyeguy thirdeyeguy 4.0K May 16 17:54 3002-07
+drwxrwxr-x  2 thirdeyeguy thirdeyeguy 4.0K May 16 17:54 3002-08
+drwxrwxr-x  2 thirdeyeguy thirdeyeguy 4.0K May 16 17:54 3002-09
+drwxrwxr-x  2 thirdeyeguy thirdeyeguy 4.0K May 16 17:54 3002-10
+drwxrwxr-x  2 thirdeyeguy thirdeyeguy 4.0K May 16 17:54 3002-11
+drwxrwxr-x  2 thirdeyeguy thirdeyeguy 4.0K May 16 17:54 3002-12
+drwxrwxr-x  2 thirdeyeguy thirdeyeguy 4.0K May 16 17:54 3004-01
+drwxrwxr-x  2 thirdeyeguy thirdeyeguy 4.0K May 16 17:54 3004-02
+drwxrwxr-x  2 thirdeyeguy thirdeyeguy 4.0K May 16 17:54 3004-03
+drwxrwxr-x  2 thirdeyeguy thirdeyeguy 4.0K May 16 17:54 3004-04
+drwxrwxr-x  2 thirdeyeguy thirdeyeguy 4.0K May 16 17:54 3004-05
+drwxrwxr-x  2 thirdeyeguy thirdeyeguy 4.0K May 16 17:54 3004-06
+drwxrwxr-x  2 thirdeyeguy thirdeyeguy 4.0K May 16 17:54 3004-07
+drwxrwxr-x  2 thirdeyeguy thirdeyeguy 4.0K May 16 17:54 3004-08
+drwxrwxr-x  2 thirdeyeguy thirdeyeguy 4.0K May 16 17:54 3004-09
+drwxrwxr-x  2 thirdeyeguy thirdeyeguy 4.0K May 16 17:54 3004-10
+drwxrwxr-x  2 thirdeyeguy thirdeyeguy 4.0K May 16 17:54 3004-11
+drwxrwxr-x  2 thirdeyeguy thirdeyeguy 4.0K May 16 17:54 3004-12
+drwxrwxr-x  2 thirdeyeguy thirdeyeguy 4.0K May 16 17:54 3005-01
+drwxrwxr-x  2 thirdeyeguy thirdeyeguy 4.0K May 16 17:54 3005-02
+drwxrwxr-x  2 thirdeyeguy thirdeyeguy 4.0K May 16 17:54 3005-03
+drwxrwxr-x  2 thirdeyeguy thirdeyeguy 4.0K May 16 17:54 3005-04
+drwxrwxr-x  2 thirdeyeguy thirdeyeguy 4.0K May 16 17:54 3005-05
+drwxrwxr-x  2 thirdeyeguy thirdeyeguy 4.0K May 16 17:54 3005-06
+drwxrwxr-x  2 thirdeyeguy thirdeyeguy 4.0K May 16 17:54 3005-07
+drwxrwxr-x  2 thirdeyeguy thirdeyeguy 4.0K May 16 17:54 3005-08
+drwxrwxr-x  2 thirdeyeguy thirdeyeguy 4.0K May 16 17:54 3005-09
+drwxrwxr-x  2 thirdeyeguy thirdeyeguy 4.0K May 16 17:54 3005-10
+drwxrwxr-x  2 thirdeyeguy thirdeyeguy 4.0K May 16 17:54 3005-11
+drwxrwxr-x  2 thirdeyeguy thirdeyeguy 4.0K May 16 17:54 3005-12
+drwxrwxr-x 14 thirdeyeguy thirdeyeguy 4.0K May 17 15:58 year_3003
+-rw-rw-r--  1 thirdeyeguy thirdeyeguy    0 May 17 15:45 year_3003.txt
+
+Public:
+total 0
+
+Templates:
+total 0
+
+textFiles:
+total 528K
+-rw-rw-r-- 1 thirdeyeguy thirdeyeguy    0 May 16 00:02 haha.txt
+-rw-rw-r-- 1 thirdeyeguy thirdeyeguy  98K May 16 00:04 hardyhar.txt
+-rw-rw-r-- 1 thirdeyeguy thirdeyeguy   20 May 16 17:06 Hello.txt
+-rw-rw-r-- 1 thirdeyeguy thirdeyeguy    1 May 19 15:48 I_Heart_Cyndi.txt
+-rw-rw-r-- 1 thirdeyeguy thirdeyeguy  563 May 16 19:48 linuxStudymethod.txt
+-rw-rw-r-- 1 thirdeyeguy thirdeyeguy   56 May 15 21:22 ls-error.txt
+-rw-rw-r-- 1 thirdeyeguy thirdeyeguy 196K May 17 16:06 ls-output.txt
+-rw-rw-r-- 1 thirdeyeguy thirdeyeguy    0 May 15 21:44 ls-outputv1.txt
+-rw-rw-r-- 1 thirdeyeguy thirdeyeguy  98K May 15 21:48 ls-outputv2.txt
+-rw-rw-r-- 1 thirdeyeguy thirdeyeguy    0 May 15 21:45 ls-outputv3.txt
+-rw-rw-r-- 1 thirdeyeguy thirdeyeguy  98K May 16 00:00 ls.txt
+-rw-rw-r-- 1 thirdeyeguy thirdeyeguy    0 May 19 17:08 newumask.txt
+-rw-rw-r-- 1 thirdeyeguy thirdeyeguy  12K May 19 17:08 scriptHist.txt
+-rw-rw-r-- 1 thirdeyeguy thirdeyeguy    0 May 16 18:54 two_words.txt
+-rw-rw-r-- 1 thirdeyeguy thirdeyeguy    0 May 19 16:57 umask.txt
+-rw-rw-r-- 1 thirdeyeguy thirdeyeguy    0 May 19 16:59 umaskv2.txt
+-rw-rw-r-- 1 thirdeyeguy thirdeyeguy 1.1K May 15 23:05 usr_bin.txt
+
+Videos:
+total 0
+
+vim:
+total 116K
+-rw-rw-r--  1 thirdeyeguy thirdeyeguy  618 May 19 23:10 appveyor.yml
+-rwxrwxr-x  1 thirdeyeguy thirdeyeguy  169 May 19 23:10 configure
+-rw-rw-r--  1 thirdeyeguy thirdeyeguy 2.0K May 19 23:10 CONTRIBUTING.md
+drwxrwxr-x  3 thirdeyeguy thirdeyeguy 4.0K May 19 23:10 farsi
+-rw-rw-r--  1 thirdeyeguy thirdeyeguy  19K May 19 23:10 Filelist
+-rw-rw-r--  1 thirdeyeguy thirdeyeguy  20K May 19 23:10 Makefile
+drwxrwxr-x  3 thirdeyeguy thirdeyeguy 4.0K May 19 23:10 nsis
+drwxrwxr-x  2 thirdeyeguy thirdeyeguy 4.0K May 19 23:10 pixmaps
+drwxrwxr-x  2 thirdeyeguy thirdeyeguy 4.0K May 19 23:10 READMEdir
+-rw-rw-r--  1 thirdeyeguy thirdeyeguy 5.6K May 19 23:10 README.md
+-rw-rw-r--  1 thirdeyeguy thirdeyeguy 4.8K May 19 23:10 README.txt
+drwxrwxr-x 19 thirdeyeguy thirdeyeguy 4.0K May 19 23:10 runtime
+drwxrwxr-x 13 thirdeyeguy thirdeyeguy  12K May 19 23:10 src
+drwxrwxr-x  2 thirdeyeguy thirdeyeguy 4.0K May 19 23:10 tools
+-rw-rw-r--  1 thirdeyeguy thirdeyeguy 4.0K May 19 23:10 uninstal.txt
+-rw-rw-r--  1 thirdeyeguy thirdeyeguy 1.8K May 19 23:10 vimtutor.bat
+-rwxrwxr-x  1 thirdeyeguy thirdeyeguy 2.9K May 19 23:10 vimtutor.com

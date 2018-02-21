@@ -1,0 +1,9 @@
+Fedora	10
+SUSE	11.0
+Ubuntu	8.04
+Fedora	8
+Ubuntu	7.10
+SUSE	10.3
+Fedora	7
+SUSE	10.2
+Ubuntu	6.10

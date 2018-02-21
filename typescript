@@ -1,0 +1,133 @@
+Script started on Fri 19 May 2017 03:56:41 PM CDT
+]0;thirdeyeguy@ubuntu: ~[01;32mthirdeyeguy@ubuntu[00m:[01;34m~[00m$ lsess[K[K[K[Kess typecsc[K[K[Kscript
+[?1049h[?1h=[K[7mtypescript (END)[27m[K[K[?1l>[?1049l]0;thirdeyeguy@ubuntu: ~[01;32mthirdeyeguy@ubuntu[00m:[01;34m~[00m$ less typescriptexit[Khistory | grep bash'[K
+  697  type [01;31m[Kbash[m[K
+  698  whatis [01;31m[Kbash[m[K
+  699  man [01;31m[Kbash[m[K
+ 1048  man -k [01;31m[Kbash[m[K
+ 1123  ls -l $(which [01;31m[Kbash[m[K)
+ 1124  type [01;31m[Kbash[m[K
+ 1125  which [01;31m[Kbash[m[K
+ 1126  ls [01;31m[Kbash[m[K
+ 1355  ls .[01;31m[Kbash[m[K_history .[01;31m[Kbash[m[K_logout .[01;31m[Kbash[m[Krc .cache cd .config Desktop .dmrc Documents Downloads examples.desktop .gconf .gnome2 .gnupg .gphoto .ICEauthority .lesshst .local .mozilla Music Pictures playground .profile Public .sudo_as_admin_successful Templates textFiles Videos .Xauthority .xsession-errors .xsession-errors.old 
+ 1383  history | grep [01;31m[Kbash[m[K'
+ 1388  history | grep [01;31m[Kbash[m[K'
+ 1389  history | grep [01;31m[Kbash[m[K
+ 1392  history | grep [01;31m[Kbash[m[K
+]0;thirdeyeguy@ubuntu: ~[01;32mthirdeyeguy@ubuntu[00m:[01;34m~[00m$ type[K[K[K[Kl[Khistory | grep bash[4Pless typescript
+[?1049h[?1h=[K[7mtypescript (END)[27m[K[K[?1l>[?1049l]0;thirdeyeguy@ubuntu: ~[01;32mthirdeyeguy@ubuntu[00m:[01;34m~[00m$ less[Ks t[Ktypescritp[K[Kpt
+[?1049h[?1h=[K[7mtypescript (END)[27m[K[K[?1l>[?1049l]0;thirdeyeguy@ubuntu: ~[01;32mthirdeyeguy@ubuntu[00m:[01;34m~[00m$ l[Kscript ls[K[Ktexf[KtFiles/scriptHist.txt
+Script started, file is textFiles/scriptHist.txt
+]0;thirdeyeguy@ubuntu: ~[01;32mthirdeyeguy@ubuntu[00m:[01;34m~[00m$ ls[K[Kexithistory | grep bash'[K| grep bash'[Kexit[K[Kexit[Kd[Klesss[K scriptHist.txt
+scriptHist.txt: No such file or directory
+]0;thirdeyeguy@ubuntu: ~[01;32mthirdeyeguy@ubuntu[00m:[01;34m~[00m$ k[Kless scriptHist.txttscriptHist.txtescriptHist.txtxscriptHist.txttscriptHist.txtFscriptHist.txtiscriptHist.txtlscriptHist.txtescriptHist.txt[CscriptHist.txt/scriptHist.txt
+[?1049h[?1h=[K[7mtextFiles/scriptHist.txt (END)[27m[K[K[?1l>[?1049l]0;thirdeyeguy@ubuntu: ~[01;32mthirdeyeguy@ubuntu[00m:[01;34m~[00m$ echo lolollllol
+lolollllol
+]0;thirdeyeguy@ubuntu: ~[01;32mthirdeyeguy@ubuntu[00m:[01;34m~[00m$ echo lolollllolless textFiles/scriptHist.txt
+[?1049h[?1h=[K[7mtextFiles/scriptHist.txt (END)[27m[K[K[?1l>[?1049l]0;thirdeyeguy@ubuntu: ~[01;32mthirdeyeguy@ubuntu[00m:[01;34m~[00m$ files /etc/shar[Kdow
+No command 'files' found, did you mean:
+ Command 'file' from package 'file' (main)
+ Command 'file2' from package 'file-kanji' (universe)
+files: command not found
+]0;thirdeyeguy@ubuntu: ~[01;32mthirdeyeguy@ubuntu[00m:[01;34m~[00m$ files /etc/shadow[C[C[C[C[C[1P /etc/shadow
+/etc/shadow: regular file, no read permission
+]0;thirdeyeguy@ubuntu: ~[01;32mthirdeyeguy@ubuntu[00m:[01;34m~[00m$ file /etc/shadowid[Kid
+uid=1000(thirdeyeguy) gid=1000(thirdeyeguy) groups=1000(thirdeyeguy),4(adm),24(cdrom),27(sudo),30(dip),46(plugdev),113(lpadmin),128(sambashare)
+]0;thirdeyeguy@ubuntu: ~[01;32mthirdeyeguy@ubuntu[00m:[01;34m~[00m$ umask
+0002
+]0;thirdeyeguy@ubuntu: ~[01;32mthirdeyeguy@ubuntu[00m:[01;34m~[00m$ ls 
+.bash_history              .lesshst
+.bash_logout               .local/
+.bashrc                    .mozilla/
+.cache/                    Music/
+cd                         Pictures/
+.config/                   playground/
+Desktop/                   .profile
+.dmrc                      Public/
+Documents/                 .sudo_as_admin_successful
+Downloads/                 Templates/
+examples.desktop           textFiles/
+.gconf/                    typescript
+.gnome2/                   Videos/
+.gnupg/                    .Xauthority
+.gphoto/                   .xsession-errors
+.ICEauthority              .xsession-errors.old
+I_Heart_Cyndi.txt          
+]0;thirdeyeguy@ubuntu: ~[01;32mthirdeyeguy@ubuntu[00m:[01;34m~[00m$ ls I_Heart_Cyndi.txt 
+I_Heart_Cyndi.txt
+]0;thirdeyeguy@ubuntu: ~[01;32mthirdeyeguy@ubuntu[00m:[01;34m~[00m$ ls =[K-l I_Heart_Cyndi.txt 
+-rw-rw-r-- 1 thirdeyeguy thirdeyeguy 1 May 19 15:48 I_Heart_Cyndi.txt
+]0;thirdeyeguy@ubuntu: ~[01;32mthirdeyeguy@ubuntu[00m:[01;34m~[00m$ umask 0000
+]0;thirdeyeguy@ubuntu: ~[01;32mthirdeyeguy@ubuntu[00m:[01;34m~[00m$ umask
+0000
+]0;thirdeyeguy@ubuntu: ~[01;32mthirdeyeguy@ubuntu[00m:[01;34m~[00m$ umask 0000ls -l I_Heart_Cyndi.txt 
+-rw-rw-r-- 1 thirdeyeguy thirdeyeguy 1 May 19 15:48 I_Heart_Cyndi.txt
+]0;thirdeyeguy@ubuntu: ~[01;32mthirdeyeguy@ubuntu[00m:[01;34m~[00m$ umask 0003[K2
+]0;thirdeyeguy@ubuntu: ~[01;32mthirdeyeguy@ubuntu[00m:[01;34m~[00m$ umask
+0002
+]0;thirdeyeguy@ubuntu: ~[01;32mthirdeyeguy@ubuntu[00m:[01;34m~[00m$ > fi[K[KtextFiles/una[K[Kmask.txt
+]0;thirdeyeguy@ubuntu: ~[01;32mthirdeyeguy@ubuntu[00m:[01;34m~[00m$ ls > textFiles/umask.txt[1@l[1@s[1P textFiles/umask.txt[C textFiles/umask.txt- textFiles/umask.txtl textFiles/umask.txth textFiles/umask.txt
+-rw-rw-r-- 1 thirdeyeguy thirdeyeguy 0 May 19 16:56 textFiles/umask.txt
+]0;thirdeyeguy@ubuntu: ~[01;32mthirdeyeguy@ubuntu[00m:[01;34m~[00m$ umask -[K0000[K[K[K[K[K[K[K[K[K[Krm ls -lh textFiles/umask.txt[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[5P>[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1@r[1@m[1P[1@n[1@m[1P[1P[1@m[1P textFiles/umask.txt
+]0;thirdeyeguy@ubuntu: ~[01;32mthirdeyeguy@ubuntu[00m:[01;34m~[00m$ umask 0000
+]0;thirdeyeguy@ubuntu: ~[01;32mthirdeyeguy@ubuntu[00m:[01;34m~[00m$ umask 0000rm textFiles/umask.txt[4@ls -lh[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[5P>[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1@l[1@s[1@ [1@-[1@l[1@h[1@ [1@|[1P[1@$[1@([C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C_[K)
+total 60K
+-rw-rw-r--  1 thirdeyeguy thirdeyeguy    0 May 16 19:41 cd
+drwxr-xr-x  2 thirdeyeguy thirdeyeguy 4.0K May 11 01:00 [0m[01;34mDesktop[0m
+drwxr-xr-x  3 thirdeyeguy thirdeyeguy 4.0K May 14 16:00 [01;34mDocuments[0m
+drwxr-xr-x  2 thirdeyeguy thirdeyeguy 4.0K May 11 01:00 [01;34mDownloads[0m
+-rw-r--r--  1 thirdeyeguy thirdeyeguy 8.8K May 11 00:54 examples.desktop
+-rw-rw-r--  1 thirdeyeguy thirdeyeguy    1 May 19 15:48 I_Heart_Cyndi.txt
+drwxr-xr-x  2 thirdeyeguy thirdeyeguy 4.0K May 11 01:00 [01;34mMusic[0m
+drwxr-xr-x  2 thirdeyeguy thirdeyeguy 4.0K May 11 01:00 [01;34mPictures[0m
+drwxrwxr-x 63 thirdeyeguy thirdeyeguy 4.0K May 17 15:58 [01;34mplayground[0m
+drwxr-xr-x  2 thirdeyeguy thirdeyeguy 4.0K May 11 01:00 [01;34mPublic[0m
+drwxr-xr-x  2 thirdeyeguy thirdeyeguy 4.0K May 11 01:00 [01;34mTemplates[0m
+drwxrwxr-x  2 thirdeyeguy thirdeyeguy 4.0K May 19 16:57 [01;34mtextFiles[0m
+-rw-rw-r--  1 thirdeyeguy thirdeyeguy 4.0K May 19 16:54 typescript
+drwxr-xr-x  2 thirdeyeguy thirdeyeguy 4.0K May 11 01:00 [01;34mVideos[0m
+]0;thirdeyeguy@ubuntu: ~[01;32mthirdeyeguy@ubuntu[00m:[01;34m~[00m$ ls -lh $(> textFiles/umask.txt)[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cumask 0000[Krm textFiles/umask.txt[4@ls -lh[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+-rw-rw-rw- 1 thirdeyeguy thirdeyeguy 0 May 19 16:57 textFiles/umask.txt
+]0;thirdeyeguy@ubuntu: ~[01;32mthirdeyeguy@ubuntu[00m:[01;34m~[00m$ <[K>[Kls -lh textFiles/umask.txt$(> textFiles/umask.txt)[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ct)[Kls -lh $(> textFiles/umask.txt)[C[C[C[C[C[Kumaskv2.txt_[K)
+total 64K
+-rw-rw-r--  1 thirdeyeguy thirdeyeguy    0 May 16 19:41 cd
+drwxr-xr-x  2 thirdeyeguy thirdeyeguy 4.0K May 11 01:00 [0m[01;34mDesktop[0m
+drwxr-xr-x  3 thirdeyeguy thirdeyeguy 4.0K May 14 16:00 [01;34mDocuments[0m
+drwxr-xr-x  2 thirdeyeguy thirdeyeguy 4.0K May 11 01:00 [01;34mDownloads[0m
+-rw-r--r--  1 thirdeyeguy thirdeyeguy 8.8K May 11 00:54 examples.desktop
+-rw-rw-r--  1 thirdeyeguy thirdeyeguy    1 May 19 15:48 I_Heart_Cyndi.txt
+drwxr-xr-x  2 thirdeyeguy thirdeyeguy 4.0K May 11 01:00 [01;34mMusic[0m
+drwxr-xr-x  2 thirdeyeguy thirdeyeguy 4.0K May 11 01:00 [01;34mPictures[0m
+drwxrwxr-x 63 thirdeyeguy thirdeyeguy 4.0K May 17 15:58 [01;34mplayground[0m
+drwxr-xr-x  2 thirdeyeguy thirdeyeguy 4.0K May 11 01:00 [01;34mPublic[0m
+drwxr-xr-x  2 thirdeyeguy thirdeyeguy 4.0K May 11 01:00 [01;34mTemplates[0m
+drwxrwxr-x  2 thirdeyeguy thirdeyeguy 4.0K May 19 16:58 [01;34mtextFiles[0m
+-rw-rw-r--  1 thirdeyeguy thirdeyeguy 8.0K May 19 16:57 typescript
+drwxr-xr-x  2 thirdeyeguy thirdeyeguy 4.0K May 11 01:00 [01;34mVideos[0m
+]0;thirdeyeguy@ubuntu: ~[01;32mthirdeyeguy@ubuntu[00m:[01;34m~[00m$ ls -lh $(> textFiles/umaskv2.txt)[7PtextFiles/umask.txtv.txt2.txt
+-rw-rw-rw- 1 thirdeyeguy thirdeyeguy 0 May 19 16:58 textFiles/umaskv2.txt
+]0;thirdeyeguy@ubuntu: ~[01;32mthirdeyeguy@ubuntu[00m:[01;34m~[00m$ umask -[K0[K[K
+0000
+]0;thirdeyeguy@ubuntu: ~[01;32mthirdeyeguy@ubuntu[00m:[01;34m~[00m$ umask 0002
+]0;thirdeyeguy@ubuntu: ~[01;32mthirdeyeguy@ubuntu[00m:[01;34m~[00m$ rm[K[Kumask 0002[Kls -lh textFiles/umaskv2.txt[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1@r[1@m[1P[1P[1P[1P[1P[1P textFiles/umaskv2.txt
+]0;thirdeyeguy@ubuntu: ~[01;32mthirdeyeguy@ubuntu[00m:[01;34m~[00m$ rm textFiles/umaskv2.txt[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[14Pumask 0002[Kls -lh textFiles/umaskv2.txt$(> textFiles/umaskv2.txt)
+total 64K
+-rw-rw-r--  1 thirdeyeguy thirdeyeguy    0 May 16 19:41 cd
+drwxr-xr-x  2 thirdeyeguy thirdeyeguy 4.0K May 11 01:00 [0m[01;34mDesktop[0m
+drwxr-xr-x  3 thirdeyeguy thirdeyeguy 4.0K May 14 16:00 [01;34mDocuments[0m
+drwxr-xr-x  2 thirdeyeguy thirdeyeguy 4.0K May 11 01:00 [01;34mDownloads[0m
+-rw-r--r--  1 thirdeyeguy thirdeyeguy 8.8K May 11 00:54 examples.desktop
+-rw-rw-r--  1 thirdeyeguy thirdeyeguy    1 May 19 15:48 I_Heart_Cyndi.txt
+drwxr-xr-x  2 thirdeyeguy thirdeyeguy 4.0K May 11 01:00 [01;34mMusic[0m
+drwxr-xr-x  2 thirdeyeguy thirdeyeguy 4.0K May 11 01:00 [01;34mPictures[0m
+drwxrwxr-x 63 thirdeyeguy thirdeyeguy 4.0K May 17 15:58 [01;34mplayground[0m
+drwxr-xr-x  2 thirdeyeguy thirdeyeguy 4.0K May 11 01:00 [01;34mPublic[0m
+drwxr-xr-x  2 thirdeyeguy thirdeyeguy 4.0K May 11 01:00 [01;34mTemplates[0m
+drwxrwxr-x  2 thirdeyeguy thirdeyeguy 4.0K May 19 16:59 [01;34mtextFiles[0m
+-rw-rw-r--  1 thirdeyeguy thirdeyeguy 8.0K May 19 16:57 typescript
+drwxr-xr-x  2 thirdeyeguy thirdeyeguy 4.0K May 11 01:00 [01;34mVideos[0m
+]0;thirdeyeguy@ubuntu: ~[01;32mthirdeyeguy@ubuntu[00m:[01;34m~[00m$ ls -lh $(> textFiles/umaskv2.txt)[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[9Prm textFiles/umaskv2.txt[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[14Pumask 0002[Kls -lh textFiles/umaskv2.txt
+-rw-rw-r-- 1 thirdeyeguy thirdeyeguy 0 May 19 16:59 textFiles/umaskv2.txt
+]0;thirdeyeguy@ubuntu: ~[01;32mthirdeyeguy@ubuntu[00m:[01;34m~[00m$ umn[Kask
+0002
+]0;thirdeyeguy@ubuntu: ~[01;32mthirdeyeguy@ubuntu[00m:[01;34m~[00m$ mchange[K
